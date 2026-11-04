@@ -26,10 +26,26 @@ The fine-tuned BERT model achieved:
 - Flask REST API for predictions.
 - Interactive Gradio interface.
 
+- ## Project Screenshots
+
+### 1. NER Intelligence Studio Interface
+
+![NER Interface](Screenshot%202026-11-04%20021317.png)
+
+### 2. Entity Detection Results
+
+![Entity Detection](Screenshot%202026-11-04%20021407.png)
+
+### 3. Named Entity Recognition Output
+
+![NER Output](Screenshot%202026-11-04%20021840.png)
+
+### 4. Model Predictions
+
+![Model Predictions](Screenshot%202026-11-04%20021934.png)
+
+### 5. Entity Highlighting
+
+![Entity Highlighting](Screenshot%202026-11-04%20022008.png)
+
 🛠️ **Technologies:** Python, PyTorch, Hugging Face, GloVe, Flask, Gradio, and Google Colab.
-
-This project helped me gain practical experience in NLP, sequence labeling, model evaluation, and deploying AI applications.
-
-I'm excited to keep learning and building more AI projects!
-
-#ArtificialIntelligence #NLP #NamedEntityRecognition #DeepLearning #BERT #PyTorch #MachineLearning #HuggingFace #Python #Instant
